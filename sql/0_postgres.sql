@@ -1,0 +1,5 @@
+\c postgres
+
+CREATE DATABASE etl;
+CREATE DATABASE stage;
+CREATE DATABASE dwh; 
